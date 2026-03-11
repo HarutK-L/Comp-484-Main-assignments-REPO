@@ -13,3 +13,5 @@ Project 1 - https://github.com/HarutK-L/COMP484HarutProject1.github.io.git
 HW6 - https://github.com/HarutK-L/COMP484HarutHW6.github.io.git
 
 HW7 - https://github.com/HarutK-L/COMP484HarutKHW7.github.io.git
+
+HW8 - https://github.com/HarutK-L/COMP484HarutHW8.github.io.git
