@@ -23,3 +23,5 @@ Project 2 - https://github.com/HarutK-L/COMP484HarutProject2.github.io.git
 Project 3 - https://github.com/HarutK-L/COMP484HarutProject3.github.io.git
 
 Project 4 - https://github.com/HarutK-L/COMP484HarutKProject4.github.io.git
+
+Project 5 - https://github.com/HarutK-L/COMP484HarutKProject5.github.io.git
